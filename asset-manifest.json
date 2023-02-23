@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4759272e.css",
+    "main.js": "/static/js/main.d2597c28.js",
+    "static/media/bg-logo-landscape.webp": "/static/media/bg-logo-landscape.92c97d272e570aec3949.webp",
+    "static/media/full.webp": "/static/media/full.d42ec4270ca9083e764a.webp",
+    "static/media/confidence-building.jpg": "/static/media/confidence-building.600f4c803be9f4e79294.jpg",
+    "static/media/reactivity.jpg": "/static/media/reactivity.d08b9ab29908dd81abd1.jpg",
+    "static/media/off-leash.jpg": "/static/media/off-leash.cdfe0be5b702864a3711.jpg",
+    "static/media/bg-logo-portrait.webp": "/static/media/bg-logo-portrait.0a9b799d5469b398103a.webp",
+    "static/media/puppy-foundation.jpg": "/static/media/puppy-foundation.81019e7f7d5da103d53b.jpg",
+    "static/media/thumb.webp": "/static/media/thumb.ef3a8001027f3be267e0.webp",
+    "static/media/profile-pic.webp": "/static/media/profile-pic.110981bc89df4459cc03.webp",
+    "static/media/aggressive-dog.webp": "/static/media/aggressive-dog.ab5e0da514d0584da1a8.webp",
+    "static/media/main-logo.svg": "/static/media/main-logo.0f4f8f74316ca7d89573e3c02d46c82b.svg",
+    "static/media/tully.webp": "/static/media/tully.3697400bb053be3863d9.webp",
+    "static/media/blue.webp": "/static/media/blue.cc3a76ce07c064ccdbf7.webp",
+    "static/media/general-obedience.webp": "/static/media/general-obedience.6995178de31bd670d003.webp",
+    "index.html": "/index.html",
+    "main.4759272e.css.map": "/static/css/main.4759272e.css.map",
+    "main.d2597c28.js.map": "/static/js/main.d2597c28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4759272e.css",
+    "static/js/main.d2597c28.js"
+  ]
+}
