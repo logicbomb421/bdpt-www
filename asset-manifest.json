@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/bdpt-www/static/css/main.6aea9eb6.css",
-    "main.js": "/bdpt-www/static/js/main.598fee5b.js",
-    "static/media/bg-logo-landscape.webp": "/bdpt-www/static/media/bg-logo-landscape.92c97d272e570aec3949.webp",
-    "static/media/full.webp": "/bdpt-www/static/media/full.d42ec4270ca9083e764a.webp",
-    "static/media/confidence-building.jpg": "/bdpt-www/static/media/confidence-building.600f4c803be9f4e79294.jpg",
-    "static/media/reactivity.jpg": "/bdpt-www/static/media/reactivity.d08b9ab29908dd81abd1.jpg",
-    "static/media/off-leash.jpg": "/bdpt-www/static/media/off-leash.cdfe0be5b702864a3711.jpg",
-    "static/media/bg-logo-portrait.webp": "/bdpt-www/static/media/bg-logo-portrait.0a9b799d5469b398103a.webp",
-    "static/media/puppy-foundation.jpg": "/bdpt-www/static/media/puppy-foundation.81019e7f7d5da103d53b.jpg",
-    "static/media/thumb.webp": "/bdpt-www/static/media/thumb.ef3a8001027f3be267e0.webp",
-    "static/media/profile-pic.webp": "/bdpt-www/static/media/profile-pic.110981bc89df4459cc03.webp",
-    "static/media/aggressive-dog.webp": "/bdpt-www/static/media/aggressive-dog.ab5e0da514d0584da1a8.webp",
-    "static/media/main-logo.svg": "/bdpt-www/static/media/main-logo.0f4f8f74316ca7d89573e3c02d46c82b.svg",
-    "static/media/tully.webp": "/bdpt-www/static/media/tully.3697400bb053be3863d9.webp",
-    "static/media/blue.webp": "/bdpt-www/static/media/blue.cc3a76ce07c064ccdbf7.webp",
-    "static/media/general-obedience.webp": "/bdpt-www/static/media/general-obedience.6995178de31bd670d003.webp",
-    "index.html": "/bdpt-www/index.html",
-    "main.6aea9eb6.css.map": "/bdpt-www/static/css/main.6aea9eb6.css.map",
-    "main.598fee5b.js.map": "/bdpt-www/static/js/main.598fee5b.js.map"
+    "main.css": "https://logicbomb421.github.io/bdpt-www/static/css/main.055d64bb.css",
+    "main.js": "https://logicbomb421.github.io/bdpt-www/static/js/main.40bf4efb.js",
+    "static/media/bg-logo-landscape.webp": "https://logicbomb421.github.io/bdpt-www/static/media/bg-logo-landscape.92c97d272e570aec3949.webp",
+    "static/media/full.webp": "https://logicbomb421.github.io/bdpt-www/static/media/full.d42ec4270ca9083e764a.webp",
+    "static/media/confidence-building.jpg": "https://logicbomb421.github.io/bdpt-www/static/media/confidence-building.600f4c803be9f4e79294.jpg",
+    "static/media/reactivity.jpg": "https://logicbomb421.github.io/bdpt-www/static/media/reactivity.d08b9ab29908dd81abd1.jpg",
+    "static/media/off-leash.jpg": "https://logicbomb421.github.io/bdpt-www/static/media/off-leash.cdfe0be5b702864a3711.jpg",
+    "static/media/bg-logo-portrait.webp": "https://logicbomb421.github.io/bdpt-www/static/media/bg-logo-portrait.0a9b799d5469b398103a.webp",
+    "static/media/puppy-foundation.jpg": "https://logicbomb421.github.io/bdpt-www/static/media/puppy-foundation.81019e7f7d5da103d53b.jpg",
+    "static/media/thumb.webp": "https://logicbomb421.github.io/bdpt-www/static/media/thumb.ef3a8001027f3be267e0.webp",
+    "static/media/profile-pic.webp": "https://logicbomb421.github.io/bdpt-www/static/media/profile-pic.110981bc89df4459cc03.webp",
+    "static/media/aggressive-dog.webp": "https://logicbomb421.github.io/bdpt-www/static/media/aggressive-dog.ab5e0da514d0584da1a8.webp",
+    "static/media/main-logo.svg": "https://logicbomb421.github.io/bdpt-www/static/media/main-logo.0f4f8f74316ca7d89573e3c02d46c82b.svg",
+    "static/media/tully.webp": "https://logicbomb421.github.io/bdpt-www/static/media/tully.3697400bb053be3863d9.webp",
+    "static/media/blue.webp": "https://logicbomb421.github.io/bdpt-www/static/media/blue.cc3a76ce07c064ccdbf7.webp",
+    "static/media/general-obedience.webp": "https://logicbomb421.github.io/bdpt-www/static/media/general-obedience.6995178de31bd670d003.webp",
+    "index.html": "https://logicbomb421.github.io/bdpt-www/index.html",
+    "main.055d64bb.css.map": "https://logicbomb421.github.io/bdpt-www/static/css/main.055d64bb.css.map",
+    "main.40bf4efb.js.map": "https://logicbomb421.github.io/bdpt-www/static/js/main.40bf4efb.js.map"
   },
   "entrypoints": [
-    "static/css/main.6aea9eb6.css",
-    "static/js/main.598fee5b.js"
+    "static/css/main.055d64bb.css",
+    "static/js/main.40bf4efb.js"
   ]
 }
