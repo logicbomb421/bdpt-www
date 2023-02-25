@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://logicbomb421.github.io/bdpt-www/static/css/main.129ead17.css",
-    "main.js": "https://logicbomb421.github.io/bdpt-www/static/js/main.e247c084.js",
+    "main.css": "https://logicbomb421.github.io/bdpt-www/static/css/main.2698fcc1.css",
+    "main.js": "https://logicbomb421.github.io/bdpt-www/static/js/main.fc7ea875.js",
     "static/media/bg-logo-landscape.webp": "https://logicbomb421.github.io/bdpt-www/static/media/bg-logo-landscape.92c97d272e570aec3949.webp",
     "static/media/full.webp": "https://logicbomb421.github.io/bdpt-www/static/media/full.d42ec4270ca9083e764a.webp",
     "static/media/bg-logo-portrait.webp": "https://logicbomb421.github.io/bdpt-www/static/media/bg-logo-portrait.0a9b799d5469b398103a.webp",
@@ -17,17 +17,18 @@
     "static/media/blue.webp": "https://logicbomb421.github.io/bdpt-www/static/media/blue.cc3a76ce07c064ccdbf7.webp",
     "static/media/outward-hound.svg": "https://logicbomb421.github.io/bdpt-www/static/media/outward-hound.f3fae214c38a50ecf0699b82ce238440.svg",
     "static/media/ray-allen.webp": "https://logicbomb421.github.io/bdpt-www/static/media/ray-allen.c83ddc6cbfdeb654a02d.webp",
+    "static/media/circle-logo.webp": "https://logicbomb421.github.io/bdpt-www/static/media/circle-logo.256c7ec525a4fa09168d.webp",
     "static/media/jj-dog-supplies.webp": "https://logicbomb421.github.io/bdpt-www/static/media/jj-dog-supplies.1f10eb2fd143940fec5f.webp",
     "static/media/general-obedience.webp": "https://logicbomb421.github.io/bdpt-www/static/media/general-obedience.6995178de31bd670d003.webp",
     "static/media/iacp.webp": "https://logicbomb421.github.io/bdpt-www/static/media/iacp.880c92e006d0a00e290f.webp",
     "static/media/mendota.webp": "https://logicbomb421.github.io/bdpt-www/static/media/mendota.e8ca42927237dc7db6d9.webp",
     "static/media/garmin-authorized-dealer-white.webp": "https://logicbomb421.github.io/bdpt-www/static/media/garmin-authorized-dealer-white.001c912fe136bb9e138a.webp",
     "index.html": "https://logicbomb421.github.io/bdpt-www/index.html",
-    "main.129ead17.css.map": "https://logicbomb421.github.io/bdpt-www/static/css/main.129ead17.css.map",
-    "main.e247c084.js.map": "https://logicbomb421.github.io/bdpt-www/static/js/main.e247c084.js.map"
+    "main.2698fcc1.css.map": "https://logicbomb421.github.io/bdpt-www/static/css/main.2698fcc1.css.map",
+    "main.fc7ea875.js.map": "https://logicbomb421.github.io/bdpt-www/static/js/main.fc7ea875.js.map"
   },
   "entrypoints": [
-    "static/css/main.129ead17.css",
-    "static/js/main.e247c084.js"
+    "static/css/main.2698fcc1.css",
+    "static/js/main.fc7ea875.js"
   ]
 }
