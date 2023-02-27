@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "https://logicbomb421.github.io/bdpt-www/static/css/main.2698fcc1.css",
-    "main.js": "https://logicbomb421.github.io/bdpt-www/static/js/main.e8386119.js",
-    "static/media/bg-logo-landscape.webp": "https://logicbomb421.github.io/bdpt-www/static/media/bg-logo-landscape.92c97d272e570aec3949.webp",
+    "main.css": "https://logicbomb421.github.io/bdpt-www/static/css/main.2ead14de.css",
+    "main.js": "https://logicbomb421.github.io/bdpt-www/static/js/main.596579e1.js",
     "static/media/full.webp": "https://logicbomb421.github.io/bdpt-www/static/media/full.d42ec4270ca9083e764a.webp",
+    "static/media/bg-logo-landscape.webp": "https://logicbomb421.github.io/bdpt-www/static/media/bg-logo-landscape.f854b10d425e97a5c475.webp",
     "static/media/bg-logo-portrait.webp": "https://logicbomb421.github.io/bdpt-www/static/media/bg-logo-portrait.0a9b799d5469b398103a.webp",
     "static/media/thumb.webp": "https://logicbomb421.github.io/bdpt-www/static/media/thumb.ef3a8001027f3be267e0.webp",
     "static/media/profile-pic.webp": "https://logicbomb421.github.io/bdpt-www/static/media/profile-pic.110981bc89df4459cc03.webp",
@@ -24,11 +24,11 @@
     "static/media/mendota.webp": "https://logicbomb421.github.io/bdpt-www/static/media/mendota.e8ca42927237dc7db6d9.webp",
     "static/media/garmin-authorized-dealer-white.webp": "https://logicbomb421.github.io/bdpt-www/static/media/garmin-authorized-dealer-white.001c912fe136bb9e138a.webp",
     "index.html": "https://logicbomb421.github.io/bdpt-www/index.html",
-    "main.2698fcc1.css.map": "https://logicbomb421.github.io/bdpt-www/static/css/main.2698fcc1.css.map",
-    "main.e8386119.js.map": "https://logicbomb421.github.io/bdpt-www/static/js/main.e8386119.js.map"
+    "main.2ead14de.css.map": "https://logicbomb421.github.io/bdpt-www/static/css/main.2ead14de.css.map",
+    "main.596579e1.js.map": "https://logicbomb421.github.io/bdpt-www/static/js/main.596579e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.2698fcc1.css",
-    "static/js/main.e8386119.js"
+    "static/css/main.2ead14de.css",
+    "static/js/main.596579e1.js"
   ]
 }
